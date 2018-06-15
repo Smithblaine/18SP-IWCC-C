@@ -1,0 +1,13 @@
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.exe.config
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.pdb
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.csprojResolveAssemblyReference.cache
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.pdb
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.exe.config
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.exe
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\bin\Debug\BSmith_Prog1.pdb
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.csprojAssemblyReference.cache
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.csproj.CoreCompileInputs.cache
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.exe
+C:\Users\ringo\Desktop\C#\BSmith_Prog1\BSmith_Prog1\obj\Debug\BSmith_Prog1.pdb
