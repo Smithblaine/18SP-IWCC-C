@@ -1,0 +1,9 @@
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\bin\Debug\BSmith_Prog7.exe.config
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\bin\Debug\BSmith_Prog7.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\bin\Debug\BSmith_Prog7.pdb
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\obj\Debug\BSmith_Prog7.csprojResolveAssemblyReference.cache
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\obj\Debug\BSmith_Prog7.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\obj\Debug\BSmith_Prog7.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\bin\Debug\BSmith_Prog7.exe.config
+V:\Visual Studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\obj\Debug\BSmith_Prog7.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog7\BSmith_Prog7\obj\Debug\BSmith_Prog7.pdb

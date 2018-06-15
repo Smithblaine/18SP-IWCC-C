@@ -1,0 +1,12 @@
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.exe.config
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.csprojResolveAssemblyReference.cache
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.pdb
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.exe.config
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\bin\Debug\BSmith_Prog9.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog9\BSmith_Prog9\obj\Debug\BSmith_Prog9.csprojResolveAssemblyReference.cache
