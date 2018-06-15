@@ -1,0 +1,11 @@
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\bin\Debug\netcoreapp2.0\Bsmith_Prog13.deps.json
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\bin\Debug\netcoreapp2.0\Bsmith_Prog13.runtimeconfig.json
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\bin\Debug\netcoreapp2.0\Bsmith_Prog13.runtimeconfig.dev.json
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\bin\Debug\netcoreapp2.0\Bsmith_Prog13.dll
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\bin\Debug\netcoreapp2.0\Bsmith_Prog13.pdb
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.csprojResolveAssemblyReference.cache
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.csproj.CoreCompileInputs.cache
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.AssemblyInfoInputs.cache
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.AssemblyInfo.cs
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.dll
+C:\Users\ringo\source\repos\Bsmith_Prog13\Bsmith_Prog13\obj\Debug\netcoreapp2.0\Bsmith_Prog13.pdb

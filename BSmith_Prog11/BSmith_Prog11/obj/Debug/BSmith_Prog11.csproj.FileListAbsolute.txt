@@ -1,0 +1,6 @@
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\bin\Debug\BSmith_Prog11.exe.config
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\bin\Debug\BSmith_Prog11.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\bin\Debug\BSmith_Prog11.pdb
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\obj\Debug\BSmith_Prog11.csprojResolveAssemblyReference.cache
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\obj\Debug\BSmith_Prog11.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog11\BSmith_Prog11\obj\Debug\BSmith_Prog11.pdb
