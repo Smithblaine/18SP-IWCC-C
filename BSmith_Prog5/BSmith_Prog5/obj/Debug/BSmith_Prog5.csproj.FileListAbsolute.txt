@@ -1,0 +1,12 @@
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.exe.config
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.csprojResolveAssemblyReference.cache
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.pdb
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.exe
+c:\users\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.exe.config
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\bin\Debug\BSmith_Prog5.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog5\BSmith_Prog5\obj\Debug\BSmith_Prog5.csprojResolveAssemblyReference.cache
