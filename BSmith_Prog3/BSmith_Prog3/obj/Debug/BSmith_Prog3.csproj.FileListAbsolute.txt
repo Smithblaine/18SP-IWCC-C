@@ -1,0 +1,12 @@
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.exe.config
+\\vdifile\folders\bsmith257\Documents\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.exe
+\\vdifile\folders\bsmith257\Documents\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.pdb
+\\vdifile\folders\bsmith257\Documents\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.csprojResolveAssemblyReference.cache
+\\vdifile\folders\bsmith257\Documents\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.exe
+\\vdifile\folders\bsmith257\Documents\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.exe.config
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.exe
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\bin\Debug\BSmith_Prog3.pdb
+V:\Visual Studio 2015\Projects\BSmith_Prog3\BSmith_Prog3\obj\Debug\BSmith_Prog3.csprojResolveAssemblyReference.cache
