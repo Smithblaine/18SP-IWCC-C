@@ -1,0 +1,6 @@
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\bin\Debug\BSmith_Prog2.exe.config
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\bin\Debug\BSmith_Prog2.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\bin\Debug\BSmith_Prog2.pdb
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\obj\Debug\BSmith_Prog2.csprojResolveAssemblyReference.cache
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\obj\Debug\BSmith_Prog2.exe
+\\vdifile\folders\bsmith257\documents\visual studio 2015\Projects\BSmith_Prog2\BSmith_Prog2\obj\Debug\BSmith_Prog2.pdb
